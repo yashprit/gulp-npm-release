@@ -1,0 +1,45 @@
+{
+  "name": "gulp-npm-release",
+  "version": "0.0.0-alpha",
+  "description": "gulp plugin for releasing npm module",
+
+  "bugs": {
+    "url": "/gulp-npm-release/issues"
+  },
+  "author": {
+    "url": "yashprit.github.io",
+    "name": "Yashprit",
+    "email": "yashprit@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "user/repo"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulp-npm-release",
+    "gulp",
+    "npm",
+    "release",
+    "plugin",
+    "npm-release",
+    "gulp-release",
+    "gulp-npm-release",
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "bin": {
+    "gulp-npm-release": "cli.js"
+  }
+}
