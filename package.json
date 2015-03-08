@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "yashprit/gulp-npm-release"
+    "url": "git@github.com:yashprit/gulp-npm-release.git"
   },
   "license": "MIT",
   "files": [
